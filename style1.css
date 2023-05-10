@@ -1,0 +1,100 @@
+body,h1,h3,h4,h5,h6 {font-family: "libs", Sarabun}
+.w3-bar,h1,h2,button {font-family: "magna", Calibri}
+.fa-anchor,.fa-coffee {font-size:300px}
+.column1 {
+  float:left;
+  width:33%;
+  padding:10;
+  text-decoration:none;
+  }
+
+.column2 {
+  float:left;
+  width:33%;
+  padding:10;
+  text-decoration:none;
+  }
+
+.column3 {
+  float:left;
+  width:33%;
+  padding:10;
+  text-decoration:none;
+  }
+
+  {
+    margin: 0;
+    padding: 0;
+    background-color: "whitesmoke";
+    font-family: "Calibri", sans-serif;
+    color: #3d3d3d;}
+            
+ #description h2 {
+    font-family: "Lora", serif;
+    letter-spacing: .04em;
+    }
+  
+  #map {
+    top: 0;
+    bottom: 0;
+    width: 100%;
+    }
+  
+  #description {
+    bottom: 0;
+    left: 10px;
+    width: 1000px;
+    margin-bottom: 20px;
+    padding: 0 15px;
+    background-color: rgba(255, 255, 255, .7);
+    border: 1px solid grey;
+    border-radius: 3px;
+    z-index: 800;
+            }
+ 
+  #description p {
+    font-size: .9em;
+    line-height: 1.5em;
+    }
+    
+  #description a {
+  color: #005daa;
+  text-decoration: none;
+    }
+  
+  #description a:hover {
+  text-decoration: underline;
+            }
+
+  body {font-family: Calibri, Helvetica, sans-serif;}
+* {box-sizing: border-box;}
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+.container {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
